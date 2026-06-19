@@ -16,6 +16,7 @@
 ## 🛡️ Automated Guardrails (To be verified by Reviewer)
 - [  ] **AccuKnox Scan:** GitHub Actions security scanning has completed with zero "Critical" or "High" vulnerabilities.
 - [  ] **CI/CD Pipeline:** All automated status checks are green.
+- [  ] I have manually created the Change Request in the ITIL tool (ID: CR-_______). 
 
 ## 📝 Additional Notes / Deployment Risks
 <!-- Add any specific considerations for the production gatekeeper here -->
