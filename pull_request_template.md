@@ -4,8 +4,11 @@
 - **Ticket Link:** 
 
 ## 🛠️ Type of Change
-- [  ] Scenario 1: Standard Change (`develop` ➔ `release` ➔ `preprod` ➔ `main`)
-- [  ] Scenario 2: Fast-Track Change (`develop` ➔ `release` ➔ `main`)
+- [  ] Scenario 1: develop ➔ release ➔ preprod ➔ main
+- [  ] Scenario 2: develop ➔ release ➔ main
+- [  ] Scenario 3: develop ➔ main
+- [  ] Scenario 4: release ➔ main
+- [  ] Scenario 5: preprod ➔ main
 - [  ] Emergency Hotfix
 
 ## 🔒 Security & Compliance Checklist (Self-Attestation)
