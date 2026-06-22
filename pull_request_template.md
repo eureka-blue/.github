@@ -7,6 +7,7 @@
 - [  ] Branch Flow 1: develop ➔ release ➔ preprod ➔ main
 - [  ] Branch Flow 2: develop ➔ release ➔ main
 - [  ] Branch Flow 3: release ➔ main
+- [  ] Branch Flow 4: main ( only main branch )
 - [  ] Emergency Hotfix
 
 ## 🔒 Security & Compliance Checklist (Self-Attestation or Tech Lead)
