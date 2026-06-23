@@ -41,8 +41,8 @@ Testing Notes:
 
 * [ ] Build Validation Passed
 * [ ] Branch Naming Validation Passed
-* [ ] Pull Request Validation Passed
-* [ ] Lint Validation Passed (where applicable)
+* [x] Pull Request Validation Passed
+#* [ ] Lint Validation Passed (where applicable)
 
 # 📝 Additional Notes
 
